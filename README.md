@@ -1,6 +1,6 @@
-# QuizGame-
+# QuizGame
 
-# JAVASCRIPT-QUIZ-GAME--FRT-PROJECT-
+# JAVASCRIPT-QUIZ-GAME--FRT-PROJECT
 
 This JavaScript quiz project challenges you to code the 
 functionality of a quiz. 
